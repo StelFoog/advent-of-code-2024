@@ -22,12 +22,12 @@ It's also possible to use example inputs by including `true` after the task to b
 
 ## Progress
 
-- [ ] Day 1
+- [x] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
-- [ ] Day 6
+- [ ] Day 6 ❄️
 - [ ] Day 7
 - [ ] Day 8
 - [ ] Day 9
@@ -45,5 +45,5 @@ It's also possible to use example inputs by including `true` after the task to b
 - [ ] Day 21
 - [ ] Day 22
 - [ ] Day 23
-- [ ] Day 24
+- [ ] Day 24 🎄
 - [ ] Day 25
