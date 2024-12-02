@@ -23,7 +23,7 @@ It's also possible to use example inputs by including `true` after the task to b
 ## Progress
 
 - [x] Day 1
-- [ ] Day 2
+- [x] Day 2
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
