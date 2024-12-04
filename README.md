@@ -24,7 +24,7 @@ It's also possible to use example inputs by including `true` after the task to b
 
 - [x] Day 1
 - [x] Day 2
-- [ ] Day 3
+- [x] Day 3
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6 ❄️
