@@ -15,7 +15,7 @@ for (let i = 0; i < input.length; i++) {
 			sum += elf.product(...elf.parseNumbers(match[1], { alsoSplitOn: "," }));
 		} else {
 			let execIdx = part.search(/(do\(\)|don't\(\)|mul\(\d+,\d+\))/);
-			if (execIdx !== -1) break;
+			if (execIdx === -1) break;
 			i += execIdx - 1;
 		}
 	}
