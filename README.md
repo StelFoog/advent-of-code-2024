@@ -32,7 +32,7 @@ It's also possible to use example inputs by including `true` after the task to b
 - [x] Day 8
 - [x] Day 9
 - [x] Day 10
-- [ ] Day 11
+- [x] Day 11
 - [ ] Day 12
 - [ ] Day 13
 - [ ] Day 14
