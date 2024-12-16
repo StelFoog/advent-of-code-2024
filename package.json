@@ -1,26 +1,26 @@
 {
-	"name": "advent-of-code-2024",
-	"type": "module",
-	"scripts": {
-		"task": "bun run src/index.ts",
-		"make-day": "bun run src/makeDay.ts",
-		"md": "bun make-day"
-	},
-	"devDependencies": {
-		"@types/bun": "latest",
-		"typescript": "^5"
-	},
-	"prettier": {
-		"arrowParens": "always",
-		"bracketSpacing": true,
-		"jsxSingleQuote": false,
-		"printWidth": 100,
-		"semi": true,
-		"tabWidth": 2,
-		"useTabs": true,
-		"trailingComma": "es5"
-	},
-	"dependencies": {
-		"elf-help": "^0.5.1"
-	}
+  "name": "advent-of-code-2024",
+  "type": "module",
+  "scripts": {
+    "task": "bun run src/index.ts",
+    "make-day": "bun run src/makeDay.ts",
+    "md": "bun make-day"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5"
+  },
+  "prettier": {
+    "arrowParens": "always",
+    "bracketSpacing": true,
+    "jsxSingleQuote": false,
+    "printWidth": 100,
+    "semi": true,
+    "tabWidth": 2,
+    "useTabs": true,
+    "trailingComma": "es5"
+  },
+  "dependencies": {
+    "elf-help": "^0.7.0"
+  }
 }
