@@ -30,7 +30,7 @@ for (const code of input.split("\n")) {
 	}
 	sum += len * BigInt(code.slice(0, -1));
 }
-console.log(sum);
+console.log(sum.toString());
 
 function moveLength(from: string, to: string, depth: number) {
 	const cacheKey = `${from}${to}${depth}`; // from and to are always 1 char
