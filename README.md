@@ -45,5 +45,5 @@ It's also possible to use example inputs by including `true` after the task to b
 - [x] Day 21
 - [x] Day 22
 - [x] Day 23
-- [ ] Day 24 🎄
-- [ ] Day 25
+- [x] Day 24 🎄
+- [x] Day 25
